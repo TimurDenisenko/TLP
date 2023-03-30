@@ -1,0 +1,60 @@
+﻿Õpetaja
+Õpilane
+Klass
+Tund
+Tunniplaan
+Aine
+Hinne
+Kodutöö
+Koolibuss
+Õpik
+Vaheaeg
+Klassiruum
+Tahvel
+Vahetund
+Arvutiklass
+Raamatukogu
+Kooliköök
+Koolimuuseum
+Spordisaal
+Kooliteater
+Õppeaasta
+Lõpueksam
+Rektor
+Vastuvõtt
+Õpetajaskond
+Akadeemiline aasta
+Ülikoolipood
+Ühiselamu
+Stipendium
+Loeng
+Koolimaja
+Direktor
+Koolivorm
+Õpilasnõukogu
+Koolikell
+Õppekava
+Õppeaine
+Tööleht
+Tundide arv
+Huviring
+Õpilaspilet
+Koolikotid
+Klassiekskursioon
+Koolimatemaatika
+Kooliõde
+Koolipsühholoog
+Koolitoidu menüü
+Koolitus
+Koolitööde esitamine
+Kooliraamatukogu
+Õpetajate tuba
+Koolijuhatus
+Kooliharidus
+Koolikino
+Kooliõhtu
+Tunnistus
+Koolimuusika
+Koolimajandus
+Koolipidu
+Koolilõuna
